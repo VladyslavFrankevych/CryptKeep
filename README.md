@@ -1,6 +1,6 @@
 # CryptKeep
 
-![CryptKeep lock](./logo)
+![CryptKeep lock](./logo.png)
 
 CryptKeep is a Telegram bot that acts as a password manager. It allows users to securely store their passwords and other sensitive information, and retrieve them when needed. The bot uses advanced encryption techniques to ensure that the stored data is protected from unauthorized access.
 
